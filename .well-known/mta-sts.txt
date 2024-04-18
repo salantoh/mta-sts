@@ -1,7 +1,7 @@
-      version: STSv1
-      mode: none
-      mx: mx01.hornetsecurity.com
-      mx: mx02.hornetsecurity.com
-      mx: mx03.hornetsecurity.com
-      mx: mx04.hornetsecurity.com
-      max_age: 500
+version: STSv1
+mode: none
+mx: mx01.hornetsecurity.com
+mx: mx02.hornetsecurity.com
+mx: mx03.hornetsecurity.com
+mx: mx04.hornetsecurity.com
+max_age: 500
